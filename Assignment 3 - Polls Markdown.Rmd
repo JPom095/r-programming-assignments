@@ -52,3 +52,5 @@ poll_vis <- ggplot(df_polls, aes(x = Name, y = ABC_poll, fill = CBS_poll)) +
   )
 poll_vis
 ```
+
+#https://josiahpomeroyrprogramming.wordpress.com/
