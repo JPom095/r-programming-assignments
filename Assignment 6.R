@@ -21,3 +21,5 @@ D2 <- diag(3, 5)
 D2[1, 2:5] <- 1
 D2[2:5, 1] <- 2
 D2
+
+https://josiahpomeroyrprogramming.wordpress.com/
